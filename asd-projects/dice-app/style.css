@@ -1,0 +1,12 @@
+#die {
+  height: 100px;
+  width: 100px;
+  background-color: lightgray; /* Feel free to customize */
+  position: relative;
+}
+#die2 {
+  height: 100px;
+  width: 100px;
+  background-color: lightcoral; /* Feel free to customize */
+  position: relative;
+}
