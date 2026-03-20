@@ -146,8 +146,7 @@ function moveSnake() {
 }
 
 // TODO 9: Create a new helper function
-function moveBodyAToBodyB(bodyA,bodyB){
-  bodyA
+
 
 
 function hasHitWall() {
